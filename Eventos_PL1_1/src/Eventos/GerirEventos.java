@@ -50,9 +50,15 @@ public class GerirEventos {
 	
 	public void registarInscricao(int id,String titulo) {
 			Participante p = pesquisarParticipante(id);
-			Evento e = pesquisarEvento(titulo); 
-			p.adiconarInscricao(e);
+			if(p!= null) {
+				Evento e = pesquisarEvento(titulo); 
+				p.adiconarInscricao(e);
+			}
+			else {
+				System.out.println("Esse id não existe");
+			}
 	}
+			
 	
 	public void imprimirPorEvento(String titulo) {
 		Evento e = pesquisarEvento(titulo);
