@@ -3,6 +3,8 @@
 
 Projeto desenvolvido no âmbito do Laboratório 1, com o objetivo de implementar um sistema simples de gestão de eventos, participantes e inscrições em Java.
 
+---
+
 ## Objetivo do Projeto
 
 O projeto tem como objetivo permitir a gestão de eventos, participantes e inscrições, disponibilizando as seguintes funcionalidades:
@@ -14,6 +16,7 @@ O projeto tem como objetivo permitir a gestão de eventos, participantes e inscr
 - Indicar o número de vagas disponíveis;
 - Apresentar o evento com maior número de inscrições confirmadas.
 TESTE DE CONFLITO
+
 ---
 
 ## Estrutura do Projeto
@@ -48,6 +51,7 @@ eventos-grupoX/
 |---------|------------------------------------|
 | 53986   | Ana Clara Pereira Souto            |
 | 47303   | António Rodrigues Carvalho         |
+| 47303   | António Jorge Campos Santos        |
 | 53255   | João Gonçalo Guedes Pinto          |
 | 53035   | Mathias Fernando Concha Pando      |
 | 53814   | Tiago Augusto Resende Saraiva      |
@@ -59,6 +63,7 @@ eventos-grupoX/
 | Membro           | Responsabilidade Inicial     | Branch                 |
 |-------------------|-------------------------------|--------------------------|
 | António Carvalho | Classe `Evento`               | `feature/evento`        |
+| António Santos | Classe `Evento`               | `feature/evento`        |
 | João Pinto        | Classe `Participante`         | `feature/participante`  |
 | Tiago Saraiva      | Classe `Inscricao` e estados  | `feature/inscricao`     |
 | Mathias Pando      | Classe `GereEventos`          | `feature/gestao`        |
