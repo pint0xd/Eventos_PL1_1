@@ -15,7 +15,7 @@ O projeto tem como objetivo permitir a gestão de eventos, participantes e inscr
 - Listar os participantes confirmados de um evento;
 - Indicar o número de vagas disponíveis;
 - Apresentar o evento com maior número de inscrições confirmadas.
-
+CRIAÇÃO DO CONFLITO A
 ---
 
 ## Estrutura do Projeto
