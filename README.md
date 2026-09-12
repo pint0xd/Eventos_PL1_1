@@ -49,7 +49,7 @@ eventos-grupoX/
 | Número  | Nome                              |
 |---------|------------------------------------|
 | 53986   | Ana Clara Pereira Souto            |
-| 47303   | António Rodrigues Carvalho         |
+| 47303   | António Jorge Campos Santos        |
 | 53255   | João Gonçalo Guedes Pinto          |
 | 53035   | Mathias Fernando Concha Pando      |
 | 53814   | Tiago Augusto Resende Saraiva      |
@@ -60,7 +60,7 @@ eventos-grupoX/
 
 | Membro           | Responsabilidade Inicial     | Branch                 |
 |-------------------|-------------------------------|--------------------------|
-| António Carvalho | Classe `Evento`               | `feature/evento`        |
+| António Santos | Classe `Evento`               | `feature/evento`        |
 | João Pinto        | Classe `Participante`         | `feature/participante`  |
 | Tiago Saraiva      | Classe `Inscricao` e estados  | `feature/inscricao`     |
 | Mathias Pando      | Classe `GereEventos`          | `feature/gestao`        |
